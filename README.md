@@ -25,7 +25,7 @@ To run the solutions:
 
 ## Progress
 
-- [ ] Day 1
+- [x] Day 1
 - [ ] Day 2
 - [ ] Day 3
 - ... (and so on for each day)
