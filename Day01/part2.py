@@ -35,4 +35,4 @@ def day1_solution(file_path):
 file_path = 'input.txt'
 result = day1_solution(file_path)
 
-print("Part 2:", result)
+#print("Part 2:", result)
