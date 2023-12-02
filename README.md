@@ -26,9 +26,15 @@ To run the solutions:
 ## Progress
 
 - [x] Day 1
-- [ ] Day 2
+- [x] Day 2
 - [ ] Day 3
-- ... (and so on for each day)
+- [ ] Day 4
+- [ ] Day 5
+- [ ] Day 6
+- [ ] Day 7
+- [ ] Day 8
+- [ ] Day 9
+- [ ] Day 10
 
 ## Author
 
